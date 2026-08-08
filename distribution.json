@@ -493,6 +493,16 @@
           }
         },
         {
+          "id": "net.blay09.mods:balm:7.3.38@jar",
+          "name": "Balm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 591398,
+            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.38-all.jar",
+            "MD5": "2ff18975f2b4d0570f8eeeae85b66e42"
+          }
+        },
+        {
           "id": "io.github.kosmx:bendylib:4.0.0@jar",
           "name": "Bendy lib",
           "type": "ForgeMod",
@@ -673,6 +683,16 @@
           }
         },
         {
+          "id": "generated.forgemod:connector:1.0.0-beta.49+1.20.1@jar",
+          "name": "Connector",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5046109,
+            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/forgemods/required/Connector-1.0.0-beta.49+1.20.1.jar",
+            "MD5": "fd4a04ba4903464280abd0d654f573dc"
+          }
+        },
+        {
           "id": "thetadev.constructionwand:constructionwand:1.20.1-2.11@jar",
           "name": "Construction Wand",
           "type": "ForgeMod",
@@ -810,16 +830,6 @@
             "size": 363044,
             "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/forgemods/required/dummmmmmy-1.20-2.0.9.jar",
             "MD5": "4d3c04e63f560cfb51d100b7a4e78563"
-          }
-        },
-        {
-          "id": "mod.crend:dynamiccrosshair:9.10@jar",
-          "name": "Dynamic Crosshair",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 879924,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/forgemods/required/dynamiccrosshair-9.10+1.20.1-forge.jar",
-            "MD5": "1ac0e508f5fe40bd1608ea4cb4b60247"
           }
         },
         {
@@ -1000,6 +1010,16 @@
             "size": 2401921,
             "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/forgemods/required/figura-0.1.6+1.20.1-forge-mc.jar",
             "MD5": "576eddae18f18864cb3d7806c077ad19"
+          }
+        },
+        {
+          "id": "com.lion6477:godlikemetrics:1.0.0@jar",
+          "name": "GodlikeMetrics",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 133042,
+            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/forgemods/required/forge_1_20_1-godlikemetrics-1.0.0.jar",
+            "MD5": "cc5f4a966de69d0bd968d1a049aef75d"
           }
         },
         {
@@ -1280,6 +1300,16 @@
             "size": 7757,
             "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/forgemods/required/LongerChatHistory-1.3-Forge.jar",
             "MD5": "f0a3e89a3e42f1db2ef27e4744c34b0b"
+          }
+        },
+        {
+          "id": "generated.forgemod:magicskin:0.1-1.20.1+fabric@jar",
+          "name": "Magicskin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 116766,
+            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/forgemods/required/magicskin-0.1-1.20.1+fabric.jar",
+            "MD5": "dc339c20537b5099f1fe1cddc9af6728"
           }
         },
         {
@@ -1723,6 +1753,16 @@
           }
         },
         {
+          "id": "org.revo.figura:revo_figura_api:1.0.0@jar",
+          "name": "Revo-Figura-api",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 23986,
+            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/forgemods/required/revo-figura-api-forge-1.20.1.jar",
+            "MD5": "6893b3142d89fdfd725d123491077b48"
+          }
+        },
+        {
           "id": "io.github.mortuusars:scholar:1.1.9@jar",
           "name": "Scholar",
           "type": "ForgeMod",
@@ -1790,6 +1830,26 @@
             "size": 45368,
             "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/forgemods/required/Simple%20Health%20Bar%20v1.0.2%20[Forge%201.20.1].jar",
             "MD5": "f960f36feb459c6185e8abcf82cb90e6"
+          }
+        },
+        {
+          "id": "org.mrkainaja:sladd:1.0.1-1.20.1@jar",
+          "name": "SL Addon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 32765,
+            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/forgemods/required/sladd-1.1.0-1.20.1.jar",
+            "MD5": "654bebc2f680cd02b08fae3f48a8cddd"
+          }
+        },
+        {
+          "id": "org.mrkainaja:sladd:1.0.1-1.20.1@jar",
+          "name": "SL Addon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 38581,
+            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/forgemods/required/sladd-1.1.1-1.20.1.jar",
+            "MD5": "b5162fd8153f0ed4863ef37095b0ad03"
           }
         },
         {
@@ -4809,6 +4869,17 @@
           }
         },
         {
+          "id": "Araii-coins-1.0.1.zip",
+          "name": "Araii-coins-1.0.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 4496,
+            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/resourcepacks/Araii-coins-1.0.1.zip",
+            "MD5": "39a2b4fdca5d1145e5d9adb18a6b2e30",
+            "path": "resourcepacks/Araii-coins-1.0.1.zip"
+          }
+        },
+        {
           "id": "Better-Leaves-9.5.zip",
           "name": "Better-Leaves-9.5.zip",
           "type": "File",
@@ -4894,6 +4965,17 @@
             "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/resourcepacks/[Compressed]%20Alternative%20Rain%20Sounds%201.20-1.20.1.zip",
             "MD5": "0aeba050edb7831d7440b6945b107cfa",
             "path": "resourcepacks/[Compressed] Alternative Rain Sounds 1.20-1.20.1.zip"
+          }
+        },
+        {
+          "id": "ภาษาไทยสระไม่ลอย 1.20.x (มะลิ).zip",
+          "name": "ภาษาไทยสระไม่ลอย 1.20.x (มะลิ).zip",
+          "type": "File",
+          "artifact": {
+            "size": 581694,
+            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/resourcepacks/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A5%E0%B8%AD%E0%B8%A2%201.20.x%20(%E0%B8%A1%E0%B8%B0%E0%B8%A5%E0%B8%B4).zip",
+            "MD5": "21f891ab08f535cdf99555eca252e59d",
+            "path": "resourcepacks/ภาษาไทยสระไม่ลอย 1.20.x (มะลิ).zip"
           }
         }
       ]
