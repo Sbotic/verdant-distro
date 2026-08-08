@@ -3146,9 +3146,9 @@
           "name": "title_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 35862,
+            "size": 35853,
             "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "d6734ba04e7104ce97bcd845e5515d43",
+            "MD5": "aca39d0a7e1743ce660112a747eff53d",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
@@ -4576,9 +4576,9 @@
           "name": "last_world.fmdata",
           "type": "File",
           "artifact": {
-            "size": 90,
+            "size": 81,
             "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/fancymenu_data/last_world.fmdata",
-            "MD5": "19d4a67d1f5ec28ae0e883345c1167a3",
+            "MD5": "fa21d526b5e248c9332f51101bda6040",
             "path": "fancymenu_data/last_world.fmdata"
           }
         },
