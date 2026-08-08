@@ -1,6 +1,11 @@
 {
   "version": "1.0.0",
   "rss": "",
+  "discord": {
+    "clientId": "1535767238211018812",
+    "smallImageText": "Verdant",
+    "smallImageKey": "verdant_icon"
+  },
   "servers": [
     {
       "id": "silverleaf-main-1.20.1",
@@ -10,6 +15,11 @@
       "version": "Modpack Silverleaf College",
       "address": "srv74.godlike.club:26025",
       "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "Silverleaf College",
+        "largeImageText": "Silverleaf College",
+        "largeImageKey": "silverleaf_icon"
+      },
       "mainServer": true,
       "autoconnect": false,
       "modules": [
