@@ -743,16 +743,6 @@
           }
         },
         {
-          "id": "generated.forgemod:crash_assistant:1.11.8@jar",
-          "name": "Crash Assistant",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3179348,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/forgemods/required/CrashAssistant-forge-1.19-1.20.1-1.11.8.jar",
-            "MD5": "eb2f78026e3fb87b71f7788045c19d03"
-          }
-        },
-        {
           "id": "team.creative:creativecore:2.12.35@jar",
           "name": "CreativeCore",
           "type": "ForgeMod",
@@ -1733,13 +1723,13 @@
           }
         },
         {
-          "id": "dev.zelo:renderscale:1.0@jar",
+          "id": "dev.zelo.renderscale.platform:renderscale:1.3.8@jar",
           "name": "RenderScale",
           "type": "ForgeMod",
           "artifact": {
-            "size": 82692,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/forgemods/required/RenderScale-forge-1.20.1-1.0.jar",
-            "MD5": "687c1f74c6ff90bab26c8c01f0dba2d5"
+            "size": 720342,
+            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/forgemods/required/renderscale-1.3.8-forge+1.20.1.jar",
+            "MD5": "ca36666c645c51ec140a5da85bf07ee6"
           }
         },
         {
@@ -2424,61 +2414,6 @@
             "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/config/cosycritters.json",
             "MD5": "2ad9555384cfe3d403656124ce6220e2",
             "path": "config/cosycritters.json"
-          }
-        },
-        {
-          "id": "config.toml",
-          "name": "config.toml",
-          "type": "File",
-          "artifact": {
-            "size": 22194,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/config/crash_assistant/config.toml",
-            "MD5": "253e4778a1861e5bb7329dfc11f4094a",
-            "path": "config/crash_assistant/config.toml"
-          }
-        },
-        {
-          "id": "README.md",
-          "name": "README.md",
-          "type": "File",
-          "artifact": {
-            "size": 2650,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/config/crash_assistant/crash_assistant_localization_overrides/README.md",
-            "MD5": "b5ff102e457b882185ca9611f33aebaa",
-            "path": "config/crash_assistant/crash_assistant_localization_overrides/README.md"
-          }
-        },
-        {
-          "id": "modlist.json",
-          "name": "modlist.json",
-          "type": "File",
-          "artifact": {
-            "size": 45972,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/config/crash_assistant/modlist.json",
-            "MD5": "fcb2c001d25ffcb38f9b65552f72f060",
-            "path": "config/crash_assistant/modlist.json"
-          }
-        },
-        {
-          "id": "example.jexl",
-          "name": "example.jexl",
-          "type": "File",
-          "artifact": {
-            "size": 3495,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/config/crash_assistant/scripts/log_analysis/example.jexl",
-            "MD5": "cef0690ca119861569662f5587100dbb",
-            "path": "config/crash_assistant/scripts/log_analysis/example.jexl"
-          }
-        },
-        {
-          "id": "example.jexl",
-          "name": "example.jexl",
-          "type": "File",
-          "artifact": {
-            "size": 4408,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/config/crash_assistant/scripts/startup/example.jexl",
-            "MD5": "b783fb48246a944f0faf2f79c5d8db42",
-            "path": "config/crash_assistant/scripts/startup/example.jexl"
           }
         },
         {
