@@ -11,7 +11,7 @@
       "id": "silverleaf-main-1.20.1",
       "name": "Silverleaf College",
       "description": "The Silverleaf College modded server. Minecraft 1.20.1, Forge 47.4.10.",
-      "icon": null,
+      "icon": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/icon.png",
       "version": "Modpack Silverleaf College",
       "address": "srv74.godlike.club:26025",
       "minecraftVersion": "1.20.1",
