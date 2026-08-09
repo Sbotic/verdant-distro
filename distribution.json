@@ -1453,16 +1453,6 @@
           }
         },
         {
-          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.26.2+mc1.20.1@jar",
-          "name": "ModernFix",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 826829,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/forgemods/required/modernfix-forge-5.26.2+mc1.20.1.jar",
-            "MD5": "61332114c9c317080faaf35f8183d67b"
-          }
-        },
-        {
           "id": "org.embeddedt.modernfix.forge.init:modernfix:5.27.6+mc1.20.1@jar",
           "name": "ModernFix",
           "type": "ForgeMod",
