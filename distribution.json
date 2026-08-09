@@ -683,16 +683,6 @@
           }
         },
         {
-          "id": "generated.forgemod:connector:1.0.0-beta.48+1.20.1@jar",
-          "name": "Connector",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5043906,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/forgemods/required/Connector-1.0.0-beta.48+1.20.1.jar",
-            "MD5": "5202a17ddcb2f93de07e6e783dbcc50b"
-          }
-        },
-        {
           "id": "generated.forgemod:connector:1.0.0-beta.49+1.20.1@jar",
           "name": "Connector",
           "type": "ForgeMod",
@@ -1830,16 +1820,6 @@
             "size": 45368,
             "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/forgemods/required/Simple%20Health%20Bar%20v1.0.2%20[Forge%201.20.1].jar",
             "MD5": "f960f36feb459c6185e8abcf82cb90e6"
-          }
-        },
-        {
-          "id": "org.mrkainaja:sladd:1.0.1-1.20.1@jar",
-          "name": "SL Addon",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 32765,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/forgemods/required/sladd-1.1.0-1.20.1.jar",
-            "MD5": "654bebc2f680cd02b08fae3f48a8cddd"
           }
         },
         {
@@ -4690,105 +4670,6 @@
             "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/mods/.connector/magicskin-0.1-1.20.1+fabric_mapped_srg_1.20.1.jar.input",
             "MD5": "ff1b7500021c2ce7927f7b7513335e08",
             "path": "mods/.connector/magicskin-0.1-1.20.1+fabric_mapped_srg_1.20.1.jar.input"
-          }
-        },
-        {
-          "id": "balm-forge-1.20.1-7.3.38-all.jar",
-          "name": "balm-forge-1.20.1-7.3.38-all.jar",
-          "type": "File",
-          "artifact": {
-            "size": 591398,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/mods/balm-forge-1.20.1-7.3.38-all.jar",
-            "MD5": "2ff18975f2b4d0570f8eeeae85b66e42",
-            "path": "mods/balm-forge-1.20.1-7.3.38-all.jar"
-          }
-        },
-        {
-          "id": "Connector-1.0.0-beta.49+1.20.1.jar",
-          "name": "Connector-1.0.0-beta.49+1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 5046109,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/mods/Connector-1.0.0-beta.49+1.20.1.jar",
-            "MD5": "fd4a04ba4903464280abd0d654f573dc",
-            "path": "mods/Connector-1.0.0-beta.49+1.20.1.jar"
-          }
-        },
-        {
-          "id": "dawnoftimebuilder-forge-1.20.1-1.5.45.jar.duplicate",
-          "name": "dawnoftimebuilder-forge-1.20.1-1.5.45.jar.duplicate",
-          "type": "File",
-          "artifact": {
-            "size": 3161708,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/mods/dawnoftimebuilder-forge-1.20.1-1.5.45.jar.duplicate",
-            "MD5": "3220d126129b5d00810dd93524ff97d1",
-            "path": "mods/dawnoftimebuilder-forge-1.20.1-1.5.45.jar.duplicate"
-          }
-        },
-        {
-          "id": "forge_1_20_1-godlikemetrics-1.0.0.jar",
-          "name": "forge_1_20_1-godlikemetrics-1.0.0.jar",
-          "type": "File",
-          "artifact": {
-            "size": 133042,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/mods/forge_1_20_1-godlikemetrics-1.0.0.jar",
-            "MD5": "cc5f4a966de69d0bd968d1a049aef75d",
-            "path": "mods/forge_1_20_1-godlikemetrics-1.0.0.jar"
-          }
-        },
-        {
-          "id": "magicskin-0.1-1.20.1+fabric.jar",
-          "name": "magicskin-0.1-1.20.1+fabric.jar",
-          "type": "File",
-          "artifact": {
-            "size": 116766,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/mods/magicskin-0.1-1.20.1+fabric.jar",
-            "MD5": "dc339c20537b5099f1fe1cddc9af6728",
-            "path": "mods/magicskin-0.1-1.20.1+fabric.jar"
-          }
-        },
-        {
-          "id": "rechiseled-1.2.4-forge-mc1.20.1.jar.duplicate",
-          "name": "rechiseled-1.2.4-forge-mc1.20.1.jar.duplicate",
-          "type": "File",
-          "artifact": {
-            "size": 11860511,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/mods/rechiseled-1.2.4-forge-mc1.20.1.jar.duplicate",
-            "MD5": "8ad92a457e29f0b18e037bdd9519aa4e",
-            "path": "mods/rechiseled-1.2.4-forge-mc1.20.1.jar.duplicate"
-          }
-        },
-        {
-          "id": "revo-figura-api-forge-1.20.1.jar",
-          "name": "revo-figura-api-forge-1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 23986,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/mods/revo-figura-api-forge-1.20.1.jar",
-            "MD5": "6893b3142d89fdfd725d123491077b48",
-            "path": "mods/revo-figura-api-forge-1.20.1.jar"
-          }
-        },
-        {
-          "id": "sladd-1.1.0-1.20.1.jar",
-          "name": "sladd-1.1.0-1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 32765,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/mods/sladd-1.1.0-1.20.1.jar",
-            "MD5": "654bebc2f680cd02b08fae3f48a8cddd",
-            "path": "mods/sladd-1.1.0-1.20.1.jar"
-          }
-        },
-        {
-          "id": "sladd-1.1.1-1.20.1.jar",
-          "name": "sladd-1.1.1-1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 38581,
-            "url": "https://pub-4f58412ae61847d58cfe772a2aac23cd.r2.dev/servers/silverleaf-main-1.20.1/files/mods/sladd-1.1.1-1.20.1.jar",
-            "MD5": "b5162fd8153f0ed4863ef37095b0ad03",
-            "path": "mods/sladd-1.1.1-1.20.1.jar"
           }
         },
         {
